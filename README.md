@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # svm-hate-speech-detector
 Interactive Streamlit web app that classifies text as safe or offensive using a TF-IDF + SVM model (94.7 % accuracy) trained on a 24,783-row dataset; includes per-line predictions, safe/offensive percentages, and a pie-chart visualization.
-=======
+
 #  Hate Speech Detection App
 
 A **Streamlit web application** that detects abusive or offensive text using a
@@ -33,7 +33,4 @@ Support Vector Machine (SVM) model trained on a labeled hate-speech dataset.
 
 The model and vectorizer are bundled together in **`hatespeech.pkl`** for easy loading.
 
----
 
-## Repository Structure
->>>>>>> 16ae740 (Initial commit: Streamlit hate-speech detection app)
